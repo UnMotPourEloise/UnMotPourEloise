@@ -1,7 +1,11 @@
-
+@media (max-width: 768px) {
 body {
     background-color: #f0dbdb;
+    text-align: center;
+     padding-left: 20px;
+     padding-right: 20px;
 }
+    }
 
 h1 {
     color: #f19f60;
