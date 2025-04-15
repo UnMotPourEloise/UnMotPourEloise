@@ -105,7 +105,6 @@ const words = [
   { word: "reluisant", definition: "shiny, gleaming" },
   { word: "résilience", definition: "resilience, ability to recover from adversity" },
   { word: "sagacité", definition: "sagacity, wisdom" },
-  { word: "séraphique", definition: "seraphic, angelic" },
   { word: "spontané", definition: "spontaneous, without premeditation" },
   { word: "susceptible", definition: "sensitive, easily offended" },
   { word: "taciturne", definition: "taciturn, reserved in speech" },
