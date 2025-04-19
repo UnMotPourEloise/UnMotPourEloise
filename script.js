@@ -109,6 +109,7 @@ const words = [
   { word: "Kiffer", definition: "(slang) To like, to enjoy" },
   { word: "Ouf", definition: "(slang) Crazy, awesome" },
   { word: "tumultueux", definition: "tumultuous, noisy and chaotic" },
+  { word: "Tocard", definition: "(slang) Loser, idiot" },
   { word: "ubiquité", definition: "ubiquity, presence everywhere" },
   { word: "vénérer", definition: "to venerate, to worship" },
   { word: "verbeux", definition: "verbose, wordy" },
