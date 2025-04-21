@@ -111,10 +111,9 @@ const words = [
   { word: "tumultueux", definition: "tumultuous, noisy and chaotic" },
   { word: "Tocard", definition: "(slang) Loser, idiot" },
   { word: "ubiquité", definition: "ubiquity, presence everywhere" },
-  { word: "vénérer", definition: "to venerate, to worship" },
-  { word: "verbeux", definition: "verbose, wordy" },
+  { word: "Piger", definition: "(slang) To understand, to get it" },
   { word: "virulent", definition: "virulent, extremely harmful" },
-  { word: "zélé", definition: "zealous, enthusiastic" }
+  { word: "Péter un câble", definition: "(slang) To lose it, to freak out" },
 ];
 
 
