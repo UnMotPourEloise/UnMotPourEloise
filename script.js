@@ -1,6 +1,6 @@
 const words = [
  
-  { word: "un clou", definition: "a nail" },
+  { word: "veux tu m'épouser?", definition: "will you marry me?" },
   
 
 ];
