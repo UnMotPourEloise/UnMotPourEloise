@@ -1,6 +1,6 @@
 const words = [
  
-  { word: "Joyeuse Saint Valentin mon amour", definition: "i love you" },
+  { word: "un porte-clef", definition: "a key ring" },
   
 ];
 
